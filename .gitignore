@@ -1,0 +1,6 @@
+build
+*.json
+models/*.pt
+videos
+.kdev4
+.vscode
