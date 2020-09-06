@@ -3,4 +3,5 @@ build
 models/*.pt
 videos
 .kdev4
+*.kdev4
 .vscode
